@@ -304,16 +304,15 @@ export default function Home() {
               <div className="mt-10 max-w-lg space-y-4 text-base md:text-lg">
                 <p>
                   Sou iniciante na área de desenvolvimento de sistemas, mas meu olhar vai muito além
-                  do código. Gosto de pensar em como uma ideia pode ser transformada em uma
-                  experiência bonita, funcional e com personalidade.
+                  do código. Gosto de pensar em como a sua ideia pode se transformar em uma
+                  experiência visualmente bonita! 
                 </p>
                 <p>
                   Já passei por experiências, projetos e aprendizados que foram me ajudando a
                   descobrir melhor aquilo que gosto e o que quero levar comigo daqui pra frente.
                 </p>
                 <p>
-                  Ainda estou construindo minha história, aprendendo, testando e colocando ideias em
-                  prática — e acho que essa é uma das partes mais legais de estar começando.
+                  Ainda estou construindo minha história, atualizando meus conhecimentos e botando em prática..
                 </p>
               </div>
               <p className="font-hand mt-6 text-3xl">made with carinho ♡</p>
@@ -348,7 +347,7 @@ export default function Home() {
                 <br />
               </h2>
               <p className="mt-6 max-w-xs text-sm text-muted-foreground">
-                As ferramentas que venho estudando e usando nos meus projetos.
+                As ferramentas que venho estudando e usando em alguns dos meus projetos.
               </p>
             </Reveal>
             <div className="grid auto-rows-[minmax(170px,auto)] gap-4 md:grid-cols-3 lg:col-span-8">
@@ -489,7 +488,7 @@ export default function Home() {
               </a>
             ))}
           </nav>
-          <span className="font-hand text-2xl text-blush">made with carinho ♡</span>
+          <span className="font-hand text-2xl text-blush">- Made with carinho ♡</span>
         </div>
       </footer>
     </div>
