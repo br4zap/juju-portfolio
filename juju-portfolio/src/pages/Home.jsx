@@ -304,7 +304,7 @@ export default function Home() {
               <div className="mt-10 max-w-lg space-y-4 text-base md:text-lg">
                 <p>
                   Sou iniciante na área de desenvolvimento de sistemas, mas meu olhar vai muito além
-                  do código. Gosto de pensar em como a sua ideia pode se transformar em uma
+                  disso. Gosto de pensar em como a sua ideia pode se transformar em uma
                   experiência visualmente bonita! 
                 </p>
                 <p>
