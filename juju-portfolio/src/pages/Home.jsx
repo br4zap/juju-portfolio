@@ -453,7 +453,7 @@ export default function Home() {
               {[
                 ["Instagram", "@br4zap", "https://instagram.com/br4zap"],
                 ["E-mail", "juhbraz993@gmail.com", "mailto:juhbraz993@gmail.com"],
-                ["WhatsApp", "11 93372-0143", "https://wa.me/5511933720143"],
+          
               ].map(([l, v, h]) => (
                 <a
                   key={l}
